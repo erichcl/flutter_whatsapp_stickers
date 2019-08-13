@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_whatsapp_stickers/whatsapp_stickers.dart';
+import 'package:flutter_whatsapp_stickers/flutter_whatsapp_stickers.dart';
 
 void main() => runApp(MyApp());
 
